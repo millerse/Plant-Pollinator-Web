@@ -43,3 +43,5 @@ Santos, G. M M, C. M. L. Aguiar & M. A. R. Mello (2010) Flower-visiting guild as
 Schemske, D. W., M. F. Willson, M. N. Melampy, L. J. Miller, L. Verner, K. M. Schemske, and L. B. Best. 1978. Flowering Ecology of Some Spring Woodland Herbs. Ecology 59:351-366.
 
 Small, E. 1976. Insect pollinators of the Mer Bleue peat bog of Ottawa. Canadian Field Naturalist 90:22-28.
+
+Vázquez, D. P. 2002. Interactions among Introduced Ungulates, Plants, and Pollinators: A Field Study in the Temperate Forest of the Southern Andes. Doctoral Dissertation thesis, University of Tennessee, Knoxville, Tennessee, USA.
