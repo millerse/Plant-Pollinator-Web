@@ -8,11 +8,27 @@ Arroyo, M. T. K., R. B. Primack, and J. J. Armesto. 1982. Community studies in p
 
 Barrett, S. C. H., and K. Helenurm. 1987. The Reproductive-Biology of Boreal Forest Herbs.1. Breeding Systems and Pollination. Canadian Journal of Botany 65:2036-2046.
 
+Bartomeus, I., Vilà, M. & Santamaria, L., 2008. Contrasting effects of invasive plants in plant-pollinator networks. Oecologia 155: 761-770.
+
 Bezerra, E. L. S, I. C. Machado & M. A. R. Mello (2009). Pollination networks of oil-flowers: a tiny world within the smallest of all worlds. Journal of Animal Ecology 78: 1096-1101.
 
 Dupont YL, Hansen DM and Olesen JM (2003) Structure of a plant-flower-visitor network in the high-altitude sub-alpine desert of Tenerife, Canary Islands. Ecography 26:301-310
 
+Elberling, H., and J. M. Olesen. 1999. The structure of a high latitude plant-flower visitor system: the dominance of flies. Ecography 22:314-323.
+
 Hocking, B. 1968. Insect-flower associations in the high Arctic with special reference to nectar. Oikos 19:359-388.
+
+Inouye, D. W., and G. H. Pyke. 1988. Pollination biology in the Snowy Mountains of Australia: comparisons with montane Colorado, USA. Australian Journal of Ecology 13:191-210.
+
+Kaiser-Bunbury, C. N., Memmott J. & Müller C. B., 2009. Community structure of pollination webs of Mauritian heathland habitats. Perspectives in Plant Ecology, Evolution and Systematics 11: 241–254
+
+Kato, M., T. Makutani, T. Inoue, and T. Itino. 1990. Insect-flower relationship in the primary beech forest of Ashu, Kyoto: an overview of the flowering phenology and seasonal pattern of insect visits. Contr. Biol. Lab. Kyoto Univ. 27:309-375.
+
+Kevan, P. G. 1970. High arctic insect-flower visitor relations: the inter-relationships of arthropods and flowers at Lake Hazen, Ellesmere Island, Northwest Territories, Canada. Ph.D. thesis thesis, University of Alberta.
+
+McCullen, C. K. 1993. Flower-visiting insects of the Galapagos Islands. Pan-Pacific Entomologist 69:95-106.
+
+Medan, D., N. H. Montaldo, M. Devoto, A. Mantese, V. Vasellati, and N. H. Bartoloni. 2002. Plant-pollinator relationships at two altitudes in the Andes of Mendoza, Argentina. Arctic Antarctic and Alpine Research 34:233-241.
 
 Mosquin, T., and J. E. H. Martin. 1967. Observations on the pollination biology of plants on Melville Island, N.W.T., Canada. Canadian Field Naturalist 81:201-205.
 
