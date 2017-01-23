@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/37726766.svg)](https://zenodo.org/badge/latestdoi/37726766)
+
 # Plant-Pollinator-Web
 
 Plant and insect data that will be available through Global Biotic Interactions (GloBI, http://globalbioticinteractions.org).
